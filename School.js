@@ -1,7 +1,6 @@
 const puppeteer = require('puppeteer');
 let current_datetime = new Date();
 let Formatted_date = (current_datetime.getMonth() + 1) + "/" + current_datetime.getDate();
-//var formatted_date = "10/23"
 console.log(Formatted_date);
 (async () => {
   //Launching/letting you choose to see chrome or not (false/true)
