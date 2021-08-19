@@ -1,3 +1,4 @@
+![](https://imgur.com/J81NzVO)
 # SchoologyAutoLogin
 
 I made this because I was to lazy to goto schoology and type "here". 
